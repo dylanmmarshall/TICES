@@ -1,7 +1,7 @@
 # TICES
 *terminus inter conscios et sensus* — the boundary between the conscious and the senses
 
-A theory for sensory processing by the conscious, drawing from psychedelic observations and computer vision analogies. Statistical analysis of ResNet50 weights (prior vs post training) provides parallel support, `Code` hyperlink in [TICES.pdf](https://github.com/dylanmmarshall/TICES/blob/main/TICES.pdf) is missing, refer instead to [code.ipynb](https://github.com/dylanmmarshall/TICES/blob/main/code.ipynb).
+A theory for sensory processing by the conscious, drawing from psychedelic observations and computer vision analogies. Statistical analysis of ResNet50 weights (prior vs post training) provides parallel support, `Code` hyperlink in [TICES.pdf](https://github.com/dylanmmarshall/TICES/blob/main/TICES.pdf) is null, refer instead to [code.ipynb](https://github.com/dylanmmarshall/TICES/blob/main/code.ipynb), the results are approximately the same. See the comments in the notebook for more detail.
 
 ## Setup
 ```
