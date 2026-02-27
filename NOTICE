@@ -1,0 +1,12 @@
+TICES
+Copyright 2023 Dylan Marshall
+
+This repository contains both software and creative works under separate licenses:
+
+Code (code.ipynb, requirements.txt):
+  Licensed under the Apache License, Version 2.0.
+  See LICENSE for the full text.
+
+Paper and figures (TICES.pdf, 20231031_TICES_notarization.jpg):
+  Licensed under the Creative Commons Attribution 4.0 International License (CC-BY 4.0).
+  https://creativecommons.org/licenses/by/4.0/

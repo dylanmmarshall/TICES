@@ -13,11 +13,30 @@ uv pip install -r requirements.txt
 
 ---
 
+```
+TICES/
+├── TICES.pdf                         # the paper
+├── code.ipynb                        # ResNet50 weight analysis
+├── requirements.txt                  # python dependencies
+├── 20231031_TICES_notarization.jpg   # notarization proof
+├── LICENSE                           # Apache 2.0 (code)
+└── NOTICE                            # licensing scope
+```
+
+---
+
 Ongoing: electrical circuit analogies and analysis that might help further explain this theory
 
 ---
 
-Apache 2.0 license
+## License
+
+This repository is dual-licensed. By using, reproducing, or distributing any material from this repository, you agree to the applicable terms:
+
+- **Code** (`code.ipynb`, `requirements.txt`): [Apache License 2.0](LICENSE)
+- **Paper & figures** (`TICES.pdf`, `20231031_TICES_notarization.jpg`): [Creative Commons Attribution 4.0 International (CC-BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
+
+See the [NOTICE](NOTICE) file for full details. All rights not explicitly granted by these licenses are reserved. Redistribution or derivative use without proper attribution or in violation of these terms is prohibited.
 
 ---
 
