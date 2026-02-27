@@ -7,7 +7,7 @@ A theory for sensory processing by the conscious, drawing from psychedelic obser
 ```
 python3 -m venv venv
 source venv/bin/activate
-pip install -r requirements.txt
+uv pip install -r requirements.txt
 ```
 
 ## Usage
