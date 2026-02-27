@@ -8,10 +8,8 @@ A theory for sensory processing by the conscious, drawing from psychedelic obser
 python3 -m venv venv
 source venv/bin/activate
 uv pip install -r requirements.txt
+# run code.ipynb
 ```
-
-## Usage
-Run `code.ipynb` with the `TICES` kernel.
 
 ---
 
