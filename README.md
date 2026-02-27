@@ -20,7 +20,8 @@ TICES/
 ├── requirements.txt                  # python dependencies
 ├── 20231031_TICES_notarization.jpg   # notarization proof
 ├── LICENSE                           # Apache 2.0 (code)
-└── NOTICE                            # licensing scope
+├── NOTICE                            # licensing scope
+└── CITATION.cff                      # citation metadata
 ```
 
 ---
@@ -37,6 +38,19 @@ This repository is dual-licensed. By using, reproducing, or distributing any mat
 - **Paper & figures** (`TICES.pdf`, `20231031_TICES_notarization.jpg`): [Creative Commons Attribution 4.0 International (CC-BY 4.0)](https://creativecommons.org/licenses/by/4.0/)
 
 See the [NOTICE](NOTICE) file for full details. All rights not explicitly granted by these licenses are reserved. Redistribution or derivative use without proper attribution or in violation of these terms is prohibited.
+
+## Citation
+
+If you use or reference this work, please cite it. Click **"Cite this repository"** on the [GitHub page](https://github.com/dylanmmarshall/TICES) for BibTeX/APA, or use:
+
+```bibtex
+@article{marshall2023tices,
+  title   = {On the Relationship Between the Conscious and the Senses},
+  author  = {Marshall, Dylan},
+  year    = {2023},
+  url     = {https://github.com/dylanmmarshall/TICES}
+}
+```
 
 ---
 

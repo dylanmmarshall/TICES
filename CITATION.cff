@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+title: "On the Relationship Between the Conscious and the Senses"
+message: "If you use or reference this work, please cite it as below."
+authors:
+  - family-names: Marshall
+    given-names: Dylan
+type: article
+date-released: 2023-10-31
+url: https://github.com/dylanmmarshall/TICES
+keywords:
+  - consciousness
+  - sensory processing
+  - computer vision
+  - ResNet50
+  - TICES
+license: Apache-2.0
