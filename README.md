@@ -15,6 +15,12 @@ Run `code.ipynb` with the `TICES` kernel.
 
 ---
 
+Ongoing: electrical circuit analogies and analysis that might help further explain this theory
+
+---
+
 Apache 2.0 license
+
+---
 
 Note: not peer-reviewed work
