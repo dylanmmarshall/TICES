@@ -55,3 +55,8 @@ If you use or reference this work, please cite it. Click **"Cite this repository
 ---
 
 Note: not peer-reviewed work
+
+---
+
+Apache 2.0 license
+
